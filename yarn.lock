@@ -249,6 +249,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/plugin-transform-parameters@npm:^7.17.2":
+  version: 7.17.12
+  resolution: "@babel/plugin-transform-parameters@npm:7.17.12"
+  dependencies:
+    "@babel/helper-plugin-utils": ^7.17.12
+  peerDependencies:
+    "@babel/core": ^7.0.0-0
+  checksum: d9ed5ec61dc460835bade8fa710b42ec9f207bd448ead7e8abd46b87db0afedbb3f51284700fd2a6892fdf6544ec9b949c505c6542c5ba0a41ca4e8749af00f0
+  languageName: node
+  linkType: hard
+
 "@babel/template@npm:^7.16.7":
   version: 7.16.7
   resolution: "@babel/template@npm:7.16.7"
@@ -1527,6 +1538,7 @@ __metadata:
     "@babel/core": ^7.18.5
     "@babel/plugin-syntax-typescript": ^7.17.12
     "@babel/plugin-transform-destructuring": ^7.18.0
+    "@babel/plugin-transform-parameters": ^7.17.2
   languageName: unknown
   linkType: soft
 

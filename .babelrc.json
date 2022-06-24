@@ -1,6 +1,5 @@
 {
   "plugins": [
-    "@babel/plugin-transform-parameters",
     ["@babel/plugin-transform-destructuring", {
       "loose": true
     }],

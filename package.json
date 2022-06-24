@@ -9,7 +9,6 @@
     "@babel/core": "^7.18.5",
     "@babel/plugin-syntax-typescript": "^7.17.12",
     "@babel/plugin-transform-destructuring": "^7.18.0",
-    "@babel/plugin-transform-parameters": "^7.17.2",
     "@babel/preset-env": "^7.18.2"
   }
 }
